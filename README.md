@@ -5,7 +5,7 @@ Este é um texto sobre como as IA mudaram o futuro e seus impactos.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[DeepSeek](https://chat.deepseek.com/)** para a elaboração do texto.
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book.
+- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do texto.
 
 
 ## 🧐 Processo de Criação
