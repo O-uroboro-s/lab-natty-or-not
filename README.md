@@ -19,4 +19,4 @@ O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como
 [LeonardoAI](https://cdn.leonardo.ai/users/4a703b99-e5ea-4613-9b15-10fbf94177c2/generations/dd5c827d-c592-4175-9649-2baf79859b63/segments/2:4:1/Flux_Dev_A_futuristic_depiction_of_an_artificial_intelligence__1.jpeg)
 
 ## 💭 Reflexão
-A criação do texto foi algo interessante para mim.
+A criação do texto sobre  os impactos da IA no futuro foi algo  muito significativo para mim.
